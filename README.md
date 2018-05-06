@@ -1,3 +1,5 @@
+# Initial commit, using training boilerplate
+
 # Hardcore React Training Broilerplate
 
 ## Introduction
